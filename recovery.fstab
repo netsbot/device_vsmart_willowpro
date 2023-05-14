@@ -34,6 +34,8 @@ auto                      vfat     /devices/platform/mt_usb*                    
 /md1dsp                   emmc     /dev/block/platform/bootdevice/by-name/md1dsp            flags=display=md1dsp
 /md1arm7                  emmc     /dev/block/platform/bootdevice/by-name/md1arm7           flags=display=md1arm7
 /md3img                   emmc     /dev/block/platform/bootdevice/by-name/md3img            flags=display=md3img
+/gz1                      emmc     /dev/block/platform/bootdevice/by-name/gz1               flags=display=gz1
+/gz2                      emmc     /dev/block/platform/bootdevice/by-name/gz2               flags=display=gz2
 /spmfw                    emmc     /dev/block/platform/bootdevice/by-name/spmfw             flags=display=spmfw
 /boot_para                emmc     /dev/block/platform/bootdevice/by-name/boot_para         flags=display=boot_para
 /odmdtbo                  emmc     /dev/block/platform/bootdevice/by-name/odmdtbo           flags=display=odmdtbo

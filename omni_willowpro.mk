@@ -24,6 +24,6 @@ PRODUCT_MANUFACTURER := vsmart
 PRODUCT_GMS_CLIENTID_BASE := android-vsmart
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="willowpro_open-user 10 QP1A.190711.020 V341A_OPN_U_A5_210301 release-keys"
+    PRIVATE_BUILD_DESC="willowpro_open-user 11 RP1A.200720.011 V341A_OPN_U_B4_211229 release-keys"
 
-BUILD_FINGERPRINT := vsmart/willowpro_open/willowpro:10/QP1A.190711.020/V341A_OPN_U_A5_210301:user/release-keys
+BUILD_FINGERPRINT := vsmart/willowpro_open/willowpro:11/RP1A.200720.011/V341A_OPN_U_B4_211229:user/release-keys
