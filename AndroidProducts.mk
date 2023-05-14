@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_willowpro.mk
+    $(LOCAL_DIR)/twrp_willowpro.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_willowpro-user \
-    omni_willowpro-userdebug \
-    omni_willowpro-eng
+    twrp_willowpro-user \
+    twrp_willowpro-userdebug \
+    twrp_willowpro-eng
